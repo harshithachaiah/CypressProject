@@ -11,6 +11,9 @@
   "dependencies": {
     "cypress": "^13.11.0",
     "cypress-downloadfile": "^1.2.4",
-    "cypress-file-upload": "^5.0.8"
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "mochawesome-merge": "^4.3.0",
+    "mochawesome-report-generator": "^6.2.0"
   }
 }

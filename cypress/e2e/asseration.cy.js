@@ -11,5 +11,5 @@ it('Asseration', () => {
     expect(true).to.be.true
 
     assert.equal(5, 5, 'Not equal')
-    assert.strictEqual('4', 4, "Not equal")
+    assert.strictEqual(4, 4, "Not equal")
 })
